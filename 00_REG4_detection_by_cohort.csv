@@ -1,0 +1,35 @@
+group,cohort,n,REG4_median,REG4_detect
+GI adeno,ESCA_EAC,89,11.12,0.97
+GI adeno,STAD,415,10.77,0.98
+GI adeno,COAD,449,10.55,0.98
+GI adeno,PAAD,178,10.45,0.98
+GI adeno,READ,159,9.91,0.97
+Other epithelial,PRAD,497,5.74,0.99
+Other epithelial,BLCA,408,2.21,0.74
+Other epithelial,LIHC,371,1.98,0.74
+Non-epithelial,THYM,120,1.92,0.72
+GI adeno,CHOL,36,1.23,0.61
+Non-epithelial,DLBC,48,1.18,0.52
+Non-epithelial,TGCT,134,1.17,0.53
+Non-epithelial,UCS,57,0.98,0.49
+Other epithelial,LUAD,515,0.93,0.48
+Other epithelial,BRCA,1095,0.62,0.38
+Other epithelial,ESCA_ESCC,95,0.59,0.4
+Other epithelial,CESC,304,0.58,0.38
+Other epithelial,HNSC,520,0.54,0.29
+Other epithelial,LUSC,501,0.52,0.3
+Non-epithelial,LGG,515,0.49,0.21
+Other epithelial,KICH,66,0.46,0.3
+Other epithelial,OV,304,0.36,0.33
+Other epithelial,UCEC,532,0.36,0.35
+Non-epithelial,LAML,173,0.35,0.31
+Non-epithelial,GBM,153,0,0.14
+Other epithelial,KIRP,290,0,0.16
+Non-epithelial,SARC,259,0,0.15
+Non-epithelial,MESO,87,0,0.1
+Other epithelial,KIRC,533,0,0.18
+Other epithelial,THCA,505,0,0.08
+Non-epithelial,SKCM,103,0,0.09
+Other epithelial,ACC,79,0,0.01
+Non-epithelial,PCPG,179,0,0.13
+Non-epithelial,UVM,80,0,0.01

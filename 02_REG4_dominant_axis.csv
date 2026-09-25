@@ -1,0 +1,35 @@
+cohort,group,REG4_detect,top,top_rho,margin,dominant,dom_purity,dom_secOnly,nk_partial,nk_fdr
+ACC,Other epithelial,0.01,epi_secretory,0.18,0.08,not expressed,not expressed,not expressed,-0.1,0.52
+BLCA,Other epithelial,0.74,epi_secretory,0.49,0.16,epi_secretory,epi_secretory,none,-0.11,0.074
+BRCA,Other epithelial,0.38,epi_secretory,0.17,0.11,none,none,none,0.04,0.44
+CESC,Other epithelial,0.38,epi_secretory,0.25,0.07,none,none,none,0.06,0.45
+CHOL,GI adeno,0.61,stromal_emt,-0.15,0.01,none,none,none,0.25,0.3
+COAD,GI adeno,0.98,epi_secretory,0.72,0.53,epi_secretory,epi_secretory,secretory,0.23,2.2e-05
+DLBC,Non-epithelial,0.52,immune_cytotoxic,0.34,0.14,immune_cytotoxic,none,immune_cytotoxic,0.33,0.073
+ESCA_EAC,GI adeno,0.97,epi_secretory,0.64,0.38,epi_secretory,epi_secretory,secretory,0.04,0.77
+ESCA_ESCC,Other epithelial,0.4,immune_cytotoxic,0.31,0.13,immune_cytotoxic,none,none,-0.03,0.77
+GBM,Non-epithelial,0.14,stromal_emt,-0.17,0.11,not expressed,not expressed,not expressed,0.27,0.0045
+HNSC,Other epithelial,0.29,immune_cytotoxic,0.33,0.16,immune_cytotoxic,none,none,0.04,0.45
+KICH,Other epithelial,0.3,immune_cytotoxic,0.2,0.04,none,none,none,0.13,0.45
+KIRC,Other epithelial,0.18,epi_secretory,0.23,0.08,not expressed,not expressed,not expressed,0.06,0.3
+KIRP,Other epithelial,0.16,stromal_emt,0.17,0.01,not expressed,not expressed,not expressed,0.02,0.77
+LAML,Non-epithelial,0.31,epi_secretory,0.24,0.03,none,none,none,-0.08,0.45
+LGG,Non-epithelial,0.21,epi_secretory,0.09,0.04,none,none,none,0,0.98
+LIHC,Other epithelial,0.74,stromal_emt,-0.22,0.05,none,none,none,-0.11,0.074
+LUAD,Other epithelial,0.48,epi_secretory,0.23,0.04,none,none,none,0.13,0.015
+LUSC,Other epithelial,0.3,immune_cytotoxic,0.3,0.17,immune_cytotoxic,immune_cytotoxic,none,0.11,0.043
+MESO,Non-epithelial,0.1,immune_cytotoxic,0.16,0.01,not expressed,not expressed,not expressed,0.05,0.76
+OV,Other epithelial,0.33,stromal_emt,-0.31,0.11,stromal_emt,none,none,0.03,0.76
+PAAD,GI adeno,0.98,epi_secretory,0.68,0.44,epi_secretory,epi_secretory,secretory,-0.08,0.45
+PCPG,Non-epithelial,0.13,immune_cytotoxic,0.24,0.11,not expressed,not expressed,not expressed,0.21,0.021
+PRAD,Other epithelial,0.99,epi_secretory,0.32,0.27,epi_secretory,epi_secretory,secretory,0.03,0.64
+READ,GI adeno,0.97,epi_secretory,0.76,0.61,epi_secretory,epi_secretory,secretory,0.38,2.2e-05
+SARC,Non-epithelial,0.15,epi_secretory,0.33,0.16,not expressed,not expressed,not expressed,-0.03,0.76
+SKCM,Non-epithelial,0.09,immune_cytotoxic,0.23,0.12,not expressed,not expressed,not expressed,0.25,0.038
+STAD,GI adeno,0.98,epi_secretory,0.62,0.49,epi_secretory,epi_secretory,secretory,0.15,0.011
+TGCT,Non-epithelial,0.53,epi_secretory,0.52,0.02,none,none,none,-0.07,0.56
+THCA,Other epithelial,0.08,immune_cytotoxic,0.29,0.14,not expressed,not expressed,not expressed,0.17,0.00069
+THYM,Non-epithelial,0.72,immune_cytotoxic,0.45,0.03,none,stromal_emt,none,-0.37,5e-04
+UCEC,Other epithelial,0.35,immune_cytotoxic,0.13,0.02,none,none,none,0.13,0.015
+UCS,Non-epithelial,0.49,immune_cytotoxic,-0.27,0.14,none,none,none,0.21,0.27
+UVM,Non-epithelial,0.01,stromal_emt,-0.19,0.08,not expressed,not expressed,not expressed,-0.21,0.13

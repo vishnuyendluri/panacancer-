@@ -1,0 +1,40 @@
+cohort,histology,n,REG4_med,sec_med
+BLCA,Muscle invasive urothelial carcinoma (pT2 or above),405,2.23,0
+BLCA,,3,1.51,-0.31
+BRCA,Infiltrating Carcinoma NOS,1,2.99,-1.01
+BRCA,Infiltrating Lobular Carcinoma,203,0.95,0.11
+BRCA,Mixed Histology (please specify),29,0.7,-0.03
+BRCA,Infiltrating Ductal Carcinoma,784,0.59,-0.06
+BRCA,,1,0.42,-1
+BRCA,"Other, specify",45,0.41,0.21
+BRCA,Medullary Carcinoma,6,0.2,-0.88
+BRCA,Mucinous Carcinoma,17,0,1.38
+BRCA,Metaplastic Carcinoma,9,0,-0.73
+CHOL,Cholangiocarcinoma; distal,2,5.14,0.98
+CHOL,Cholangiocarcinoma; hilar/perihilar,4,1.94,0.58
+CHOL,Cholangiocarcinoma; intrahepatic,30,1.1,-0.17
+COAD,Colon Mucinous Adenocarcinoma,61,14.29,0.85
+COAD,Colon Adenocarcinoma,384,10.27,-0.01
+COAD,,4,10.17,-0.05
+ESCA_EAC,"Esophagus Adenocarcinoma, NOS",89,11.12,0.07
+LUAD,Lung Adenocarcinoma,515,0.93,-0.02
+OV,Serous Cystadenocarcinoma,304,0.36,-0.09
+PAAD,Pancreas-Colloid (mucinous non-cystic) Carcinoma,4,13.05,1.58
+PAAD,Pancreas-Adenocarcinoma Ductal Type,147,10.49,-0.12
+PAAD,Pancreas-Adenocarcinoma-Other Subtype,25,10.14,-0.11
+PAAD,,1,5.7,-0.28
+PAAD,Pancreas-Undifferentiated Carcinoma,1,0,-1.59
+READ,Rectal Mucinous Adenocarcinoma,13,13.57,1.21
+READ,,6,12.95,0.74
+READ,Rectal Adenocarcinoma,140,9.5,-0.1
+STAD,,3,14.35,0.71
+STAD,"Stomach Adenocarcinoma, Signet Ring Type",12,12.48,0.5
+STAD,"Stomach, Intestinal Adenocarcinoma, Mucinous Type",20,12.11,0.77
+STAD,"Stomach, Intestinal Adenocarcinoma, Papillary Type",7,11.81,-0.06
+STAD,"Stomach, Intestinal Adenocarcinoma, Tubular Type",76,10.96,0.03
+STAD,"Stomach, Adenocarcinoma, Not Otherwise Specified (NOS)",155,10.69,-0.09
+STAD,"Stomach, Adenocarcinoma, Diffuse Type",69,10.59,-0.09
+STAD,"Stomach, Intestinal Adenocarcinoma, Not Otherwise Specified (NOS)",73,10.2,0.05
+UCEC,Mixed serous and endometrioid,21,0.88,-0.12
+UCEC,Serous endometrial adenocarcinoma,112,0.81,-0.56
+UCEC,Endometrioid endometrial adenocarcinoma,399,0.16,0.2
