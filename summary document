@@ -1,0 +1,24 @@
+Project summary: REG4 as a GI secretory-state marker across cancers
+Question
+
+REG4 has been linked to immune infiltration, stroma and prognosis in individual cancers, often from unadjusted bulk correlations. We asked which biological program REG4 primarily tracks across cancers, and whether its reported immune, stromal and prognostic associations are REG4-specific or reflect the cell state in which it is expressed.
+
+Hypothesis: REG4's immune/stromal associations vary across cancers, but its most coherent biology is epithelial/secretory state identity, especially in GI-lineage adenocarcinomas.
+
+Data and approach
+Data: TCGA PanCanAtlas batch-corrected RNA-seq, TCGA-CDR survival, ABSOLUTE purity and PanCanAtlas molecular subtypes; 9,849 primary tumours, 34 cohorts (oesophageal cancer split into adenocarcinoma and squamous).
+Scores: epithelial/secretory, stromal/EMT, immune/cytotoxic and NK programs, computed within each cancer type (REG4 excluded).
+Core analysis: within each cohort, REG4 was correlated with each program, with and without purity adjustment, and a dominant axis was assigned by pre-specified criteria.
+Follow-up analyses: mucinous histology (with a non-GI mucinous control), survival models testing REG4 beyond secretory state, REG4 × secretory four-state analysis, and molecular subtype (MSI/EBV) adjustment.
+Main results
+REG4 is lineage-restricted. Five GI adenocarcinomas (ESCA_EAC, STAD, COAD, PAAD, READ) express REG4 in 97–98% of tumours at levels ≥200-fold above most other cancers. PRAD is the only non-GI cohort with comparable detection. Ten cohorts essentially do not express REG4.
+Its dominant association is epithelial/secretory, and specifically in GI cancers. The epithelial/secretory axis dominates in 5/6 GI cohorts versus 2/28 others (Fisher OR 49, p = 4.3 × 10⁻⁴). All five GI calls survive purity adjustment and an alternative score definition. Non-GI associations are weak (rho ≤ 0.49) and mostly purity-dependent.
+REG4 tracks the goblet/secretory program, not epithelial content. In colorectal cancer, REG4 correlates with SPINK4, MUC2 and FCGBP at rho 0.68–0.90, but only weakly with keratins and EPCAM.
+Lineage coupling depends on the organ. REG4 is negatively correlated with CDX2, VIL1 and HNF4A in colorectal cancer (a goblet-like shift away from enterocyte identity) but positively correlated with them in pancreatic cancer (acquired intestinal-type differentiation).
+REG4 marks a graded mucinous state that needs GI context. It is 3–16× higher in mucinous GI tumours and still tracks the secretory program in non-mucinous GI tumours (rho 0.63–0.88). Mucinous breast carcinomas activate the secretory program without expressing REG4, which is the key negative control.
+Immune associations reflect molecular subtype. REG4 is highest in MSI colorectal tumours (about 33-fold above CIN), which are also the most immune-infiltrated. Adjusting for subtype removes about 60% of REG4's colorectal immune/NK association. EBV-positive gastric cancers are the most immune-rich yet the most REG4-low.
+REG4 is not independently prognostic in GI cancers (pooled HR 0.96 per SD, p = 0.56). In BLCA, an apparent protective effect disappears after adjusting for epithelial state. PRAD shows an exploratory independent signal (PFI HR 0.71; FDR 0.064) that lacks Gleason adjustment.
+Conclusion
+
+REG4 is not a pan-cancer immune or stromal marker. Its dominant association is a lineage-restricted secretory epithelial state in GI adenocarcinomas, and its apparent immune and prognostic associations largely reflect tumour purity, molecular subtype and cell state rather than an independent REG4-linked program.
+
